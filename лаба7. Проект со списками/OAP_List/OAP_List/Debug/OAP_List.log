@@ -1,0 +1,16 @@
+﻿Построение начато 13.04.2016 0:17:58.
+     1>Проект "D:\ОСНОВЫ АЛГОРИТМИЗАЦИИ И ПРОГРАММИРОВАНИЯ\c++ 2-й семестр\лаба7. Проект со списками\OAP_List\OAP_List\OAP_List.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\OAP_List.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt OAP_List.cpp
+         OAP_List.cpp
+     1>d:\основы алгоритмизации и программирования\c++ 2-й семестр\лаба7. проект со списками\oap_list\oap_list\oap_list.cpp(65): warning C4101: aa: неиспользованная локальная переменная
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ОСНОВЫ АЛГОРИТМИЗАЦИИ И ПРОГРАММИРОВАНИЯ\c++ 2-й семестр\лаба7. Проект со списками\OAP_List\Debug\OAP_List.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\ОСНОВЫ АЛГОРИТМИЗАЦИИ И ПРОГРАММИРОВАНИЯ\c++ 2-й семестр\лаба7. Проект со списками\OAP_List\Debug\OAP_List.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ОСНОВЫ АЛГОРИТМИЗАЦИИ И ПРОГРАММИРОВАНИЯ\c++ 2-й семестр\лаба7. Проект со списками\OAP_List\Debug\OAP_List.lib" /MACHINE:X86 Debug\List.obj
+         Debug\OAP_List.obj
+         Debug\stdafx.obj
+         OAP_List.vcxproj -> D:\ОСНОВЫ АЛГОРИТМИЗАЦИИ И ПРОГРАММИРОВАНИЯ\c++ 2-й семестр\лаба7. Проект со списками\OAP_List\Debug\OAP_List.exe
+     1>Построение проекта "D:\ОСНОВЫ АЛГОРИТМИЗАЦИИ И ПРОГРАММИРОВАНИЯ\c++ 2-й семестр\лаба7. Проект со списками\OAP_List\OAP_List\OAP_List.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:03.11
